@@ -42,7 +42,7 @@ driver-drowsiness-detection-system/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/driver-drowsiness-detection-system.git
+   git clone https://github.com/SBhanu143/driver-drowsiness-detection-system.git
    cd driver-drowsiness-detection-system
    ```
 
@@ -85,11 +85,6 @@ python evaluate_error_and_validation.py
 
 ---
 
-## 🎥 Demo
-
-👉 *(Add a screenshot or a short GIF of your system running — this impresses recruiters)*
-
----
 
 ## 🌍 Impact
 
